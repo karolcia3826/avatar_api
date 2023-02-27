@@ -2,13 +2,17 @@
   "reservations": [
     {
       "id": 1,
+      "reservation_number": "DD200320231",
       "name": "David Dee",
-      "startdate": "20.03.2023"
+      "startdate": "20.03.2023",
+      "enddate": "25.03.2023"
     },
     {
       "name": "John Doe",
       "id": 2,
-      "startdate": "24.03.2023"
+      "reservation_number": "JD240320232",
+      "startdate": "24.03.2023",
+      "enddate": "30.03.2023"
     }
   ]
 }
