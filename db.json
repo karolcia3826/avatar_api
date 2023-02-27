@@ -5,14 +5,42 @@
       "reservation_number": "DD200320231",
       "name": "David Dee",
       "startdate": "20.03.2023",
-      "enddate": "25.03.2023"
+      "enddate": "25.03.2023",
+      "people": 3,
+      "room": 302,
+      "floor": 3
     },
     {
       "name": "John Doe",
       "id": 2,
       "reservation_number": "JD240320232",
       "startdate": "24.03.2023",
-      "enddate": "30.03.2023"
+      "enddate": "30.03.2023",
+      "people": 2,
+      "room": 208,
+      "floor": 2
+    }
+  ],
+  "floor": [
+    {
+      "id": 1,
+      "number": 0,
+      "text": "Twój pokój znajduje się na parterze. Kieruj się wzdłuż recepcji i skręć w lewo, by znaleźć swój pokój."
+    },
+    {
+      "id": 2,
+      "number": 1,
+      "text": "Twój pokój znajduje się na pierwszym piętrze. Klatka schodowa znajduje się po Twojej prawej stronie. Windy znajdziesz po prawej stronie korytarza idącego wzdłuż recepcji."
+    },
+    {
+      "id": 3,
+      "number": 2,
+      "text": "Twój pokój znajduje się na drugim piętrze. Klatka schodowa znajduje się po Twojej prawej stronie. Windy znajdziesz po prawej stronie korytarza idącego wzdłuż recepcji."
+    },
+    {
+      "id": 4,
+      "number": 5,
+      "text": "Twój pokój znajduje się na trzecim piętrze. Klatka schodowa znajduje się po Twojej prawej stronie. Windy znajdziesz po prawej stronie korytarza idącego wzdłuż recepcji."
     }
   ]
 }
