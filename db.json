@@ -1,0 +1,14 @@
+{
+  "reservations": [
+    {
+      "id": 1,
+      "name": "David Dee",
+      "startdate": "20.03.2023"
+    },
+    {
+      "name": "John Doe",
+      "id": 2,
+      "startdate": "24.03.2023"
+    }
+  ]
+}
