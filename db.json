@@ -24,22 +24,17 @@
   "floor": [
     {
       "id": 1,
-      "number": 0,
-      "text": "Twój pokój znajduje się na parterze. Kieruj się wzdłuż recepcji i skręć w lewo, by znaleźć swój pokój."
-    },
-    {
-      "id": 2,
       "number": 1,
       "text": "Twój pokój znajduje się na pierwszym piętrze. Klatka schodowa znajduje się po Twojej prawej stronie. Windy znajdziesz po prawej stronie korytarza idącego wzdłuż recepcji."
     },
     {
-      "id": 3,
+      "id": 2,
       "number": 2,
       "text": "Twój pokój znajduje się na drugim piętrze. Klatka schodowa znajduje się po Twojej prawej stronie. Windy znajdziesz po prawej stronie korytarza idącego wzdłuż recepcji."
     },
     {
-      "id": 4,
-      "number": 5,
+      "id": 3,
+      "number": 3,
       "text": "Twój pokój znajduje się na trzecim piętrze. Klatka schodowa znajduje się po Twojej prawej stronie. Windy znajdziesz po prawej stronie korytarza idącego wzdłuż recepcji."
     }
   ]
